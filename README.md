@@ -131,7 +131,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-
+![Screenshot 2024-03-10 114137](https://github.com/yuvaraj-csk/GUI-components/assets/134052574/1b7e6e98-77b8-4025-8639-e4b2419b8d97)
+![Screenshot 2024-03-10 114343](https://github.com/yuvaraj-csk/GUI-components/assets/134052574/fa2a0803-45b6-40d1-a3e6-c708369f8cb4)
+![Screenshot 2024-03-10 114426](https://github.com/yuvaraj-csk/GUI-components/assets/134052574/e05b0b97-f9af-439b-8f27-aa1645545528)
 
 
 
